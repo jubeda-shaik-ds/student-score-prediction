@@ -65,5 +65,5 @@ The dataset contains:
 
 ## 👩‍💻 Author
 
-Zubeda Shaik
+Jubeda Shaik
 Aspiring Data Analyst
